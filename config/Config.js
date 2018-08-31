@@ -70,45 +70,45 @@ const Config = {
 
     areas: [
         {  
-          name: "Autonomo",
-          id: "Autonomo",
+          name: 'Autonomo',
+          id: 'Autonomo',
           children: [{
-              name: "Revendedor",
-              id: "Revendedor",
+              name: 'Revendedor',
+              id: 'Revendedor',
             },{
-              name: "Fisioterapeuta",
-              id: "Fisioterapeuta",
+              name: 'Fisioterapeuta',
+              id: 'Fisioterapeuta',
             },{
-              name: "Manicure",
-              id: "Manicure",
+              name: 'Manicure',
+              id: 'Manicure',
             },]
         },
         {  
-            name: "Assalariado",
-            id: "Assalariado",
+            name: 'Assalariado',
+            id: 'Assalariado',
             children: [{
-                name: "Vendedor",
-                id: "Vendedor",
+                name: 'Vendedor',
+                id: 'Vendedor',
               },{
-                name: "Médico",
-                id: "Médico",
+                name: 'Médico',
+                id: 'Médico',
               },{
-                name: "Recepção",
-                id: "Recepção",
+                name: 'Recepção',
+                id: 'Recepção',
               },]
         },
         {  
-            name: "Estudante",
-            id: "Estudante",
+            name: 'Estudante',
+            id: 'Estudante',
             children: [{
-                name: "Médio",
-                id: "Médio",
+                name: 'Médio',
+                id: 'Médio',
               },{
-                name: "Superior",
-                id: "Superior",
+                name: 'Superior',
+                id: 'Superior',
               },{
-                name: "Estágio",
-                id: "Estágio",
+                name: 'Estágio',
+                id: 'Estágio',
               },]
           }],
 
